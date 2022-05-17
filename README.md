@@ -1,5 +1,5 @@
 # Machine-Learning-and-Statistical-Analysis
-## Final Project: Report
+## Report
 
 For this project, my partner and I were given a synthetic data set made by IBM. The data used for this project depicts a hypothetical telecommunications company. The data, license, and documentation are provided by Professor Engler’s link to IBM’s GitHub repository. Before beginning our data analysis my partner and I found it beneficial to do some research on popular telecommunication companies such as AT&T and Verizon to better understand the real-world applicability of this assignment. Understanding how churn impacted companies gave us better insight as to how we should analyze our data to aid in the reduction of churn for our hypothetical company. Churn refers to the act of a customer no longer paying for service. Wrangled data will have additional nominal data type in the form of "yes" or "no” for Churn. We expected price to play a large role in the churn, but we were interested in exploring other attributes and how they affected churn. The data provided will be used in our analysis to identify customers at risk of churn in order to propose a solution to limit churn.
 
